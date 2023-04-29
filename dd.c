@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main(){
    int mark;
-   printf("VERSION #3");
+   printf("VERSION 12");
     printf("enter the mark of cenosh:\n");
    scanf("%d",&mark);
    if(mark>30 && mark<=100){
